@@ -40,8 +40,7 @@ python manage.py runserver
 <a href="#oglav">В оглавление</a>
 <h2 align="Center" id="about-me">Обо мне</h2>
 </br>
-<img src="gg/lab1/media/about=me.jpg">
- Информации обо мене нет. Я аноним
+<img src="gg/lab1/media/about-me.jpg">
 <a href="#oglav">В оглавление</a>
  <h2 align="Center" id="posts">Посты</h2>
 </br>
